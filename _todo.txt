@@ -1,0 +1,12 @@
+Settings:
+    Finish load function (see OpaqueQuestTracker for ideas)
+    Pop up a window reminding player to turn on combat break messages.
+    Take screenshot of setting to use in dialog?
+
+Remind the user to turn on the 'Display combat state break notices in chat window' (once).
+    Test: Does this setting change when you /ui layout load <name>?
+
+Notifications:
+    Later: A UI Window with a Clear button (or start & stop)
+
+Stop referencing DragBar as a library, and incorporate the files as needed.
